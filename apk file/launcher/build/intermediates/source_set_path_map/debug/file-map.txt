@@ -1,0 +1,9 @@
+com.Young2an.FlappyBird.launcher-pngs-0 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\generated\res\pngs\debug
+com.Young2an.FlappyBird.launcher-resValues-1 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\generated\res\resValues\debug
+com.Young2an.FlappyBird.launcher-rs-2 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\generated\res\rs\debug
+com.Young2an.FlappyBird.launcher-mergeDebugResources-3 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.Young2an.FlappyBird.launcher-mergeDebugResources-4 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.Young2an.FlappyBird.launcher-merged_res-5 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\build\intermediates\merged_res\debug
+com.Young2an.FlappyBird.launcher-debug-6 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\src\debug\res
+com.Young2an.FlappyBird.launcher-main-7 D:\Workspace\Unity\flappy bird\My project\apk file\launcher\src\main\res
+com.Young2an.FlappyBird.launcher-packaged_res-8 D:\Workspace\Unity\flappy bird\My project\apk file\unityLibrary\build\intermediates\packaged_res\debug

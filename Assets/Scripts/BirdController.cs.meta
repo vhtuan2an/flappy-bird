@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e0cf5c1b20b0dc43b37ce9e33780990
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flyClip: {fileID: 8300000, guid: 1d83d7d5f29fea646806d6d03d62d40d, type: 3}
+  - gameOverClip: {fileID: 8300000, guid: 8a736cbaf52c6854c802a9e8de7a5145, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
